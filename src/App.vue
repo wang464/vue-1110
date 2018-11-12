@@ -2,24 +2,36 @@
   <div id="app">
     <div class="container">
     <div class="row">
-      <asideRight></asideRight>
+      <aside class="col-xl-3">        
+        <yule></yule>
+        <zaxiang></zaxiang>
+      </aside>
       <asideCenter></asideCenter>
-      <asideLeft></asideLeft>
+      <aside class="col-xl-3">
+        <jishu></jishu>
+        <sucha></sucha>
+      </aside>
     </div>
     </div>
   </div>
 </template>
 
 <script>
-import asideRight from "./components/asideRight";
-import asideLeft from "./components/asideLeft";
 import asideCenter from "./components/asideCenter";
+import jishu from "./components/jishu";
+import zaxiang from "./components/zaxiang";
+import yule from "./components/yule";
+import sucha from "./components/sucha";
+
+
 export default {
   name: "app",
   components: {
-    asideLeft,
     asideCenter,
-    asideRight
+    jishu,
+    zaxiang,
+    yule,
+    sucha
   }
 };
 </script>
