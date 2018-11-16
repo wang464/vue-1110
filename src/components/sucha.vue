@@ -2,7 +2,7 @@
     <div class="card text-center">
           <h5 class="card-header">技术速查表</h5>
           <div class="card-body">
-            <a class="btn btn-light" target="_blank" href="#">空标签用于复制</a>
+            <a class="btn btn-light" target="_blank" href="https://wang464.coding.me/index/src/temporary/emmet/emmet.html" title="原网页https://docs.emmet.io/cheat-sheet/">emmet速查</a>
             <a class="btn btn-light" target="_blank" href="https://github.com/wang464" >GitHub</a>
             <a class="btn btn-light" target="_blank" href="https://dev.tencent.com/u/wang464/p/index">腾讯云</a>
             <a class="btn btn-light" href="https://hackerthemes.com/bootstrap-cheatsheet/">BS速查</a>
@@ -15,6 +15,7 @@
             <a class="btn btn-light" target="_blank" href="http://fanyi.youdao.com/" >有道翻译</a>
             <a class="btn btn-light" target="_blank" href="https://translate.google.cn/" >谷歌翻译</a>
             <a class="btn btn-light" target="_blank" href="https://www.v2ex.com">V2EX</a>
+            <a class="btn btn-light" target="_blank" href="https://infoq.cn/">infoQ</a>
           </div>
     </div>    
 </template>

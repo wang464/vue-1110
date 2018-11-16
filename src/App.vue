@@ -2,14 +2,14 @@
   <div id="app">
     <div class="container">
     <div class="row">
+      <aside class="col-xl-3">
+        <sucha></sucha>
+        <jishu></jishu>
+      </aside>
+      <asideCenter></asideCenter>
       <aside class="col-xl-3">        
         <yule></yule>
         <zaxiang></zaxiang>
-      </aside>
-      <asideCenter></asideCenter>
-      <aside class="col-xl-3">
-        <jishu></jishu>
-        <sucha></sucha>
       </aside>
     </div>
     </div>

@@ -7,6 +7,8 @@
             <a class="btn btn-light" href="https://workflowy.com/" title="国外的幕布">幕布2</a>
             <a class="btn btn-light" href="http://www.law-lib.com/law/lawml.asp" title="法律法规的条款和位置信息">法律法规图书馆</a>
             <a class="btn btn-light" href="http://8maple.ru/87329/" title="寄生兽,一共24集.不过我已经看完了.不知道放在哪里">寄生兽</a>
+            <a class="btn btn-light" href="http://so.jutuit.com/yy.html">科学上网</a>
+            <a class="btn btn-light" href="https://www.similarsitesearch.com/cn/">相似网站</a>              
         </div>
     </div>
 </template>

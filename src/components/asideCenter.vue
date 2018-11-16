@@ -72,6 +72,7 @@
               <div class="card-body">
               <h5 class="card-title">每月</h5>
                 <a class="btn btn-light" target="_blank" href="https://hellogithub.com/">每月28号的技术博客</a>
+                <a class="btn btn-light" target="_blank" href="https://meirifuli8.zone/">每日福利</a>
               </div>
             </div>
           </div>
