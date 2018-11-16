@@ -16,6 +16,7 @@
             <a class="btn btn-light" target="_blank" href="https://translate.google.cn/" >谷歌翻译</a>
             <a class="btn btn-light" target="_blank" href="https://www.v2ex.com">V2EX</a>
             <a class="btn btn-light" target="_blank" href="https://infoq.cn/">infoQ</a>
+            <a class="btn btn-light" target="_blank" href="https://www.toptal.com/designers/htmlarrows/">infoQ</a>           
           </div>
     </div>    
 </template>
