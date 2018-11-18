@@ -1,22 +1,22 @@
 <template>
     <div class="card text-center">
-          <h5 class="card-header">技术速查表</h5>
-          <div class="card-body">
-            <a class="btn btn-light" target="_blank" href="https://wang464.coding.me/index/src/temporary/emmet/emmet.html" title="原网页https://docs.emmet.io/cheat-sheet/">emmet速查</a>
-            <a class="btn btn-light" target="_blank" href="https://github.com/wang464" >GitHub</a>
-            <a class="btn btn-light" target="_blank" href="https://dev.tencent.com/u/wang464/p/index">腾讯云</a>
-            <a class="btn btn-light" href="https://hackerthemes.com/bootstrap-cheatsheet/">BS速查</a>
-            <a class="btn btn-light" target="_blank" href="../temporary/emmet/emmet.html" title="原网页https://docs.emmet.io/cheat-sheet/">emmet速查</a>
-            <a class="btn btn-light" target="_blank" href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element">html标签大全</a>
-            <a class="btn btn-light" target="_blank" href="https://love2.io/@meiritugua/doc/front-end-handbook/README.md">开发者手册1</a>
-            <a class="btn btn-light" target="_blank" href="https://love2.io/@funkkiid/doc/front-end-handbook-2017/tools/browsedocs.md">开发者手册2</a>
+      <h5 class="card-header">速查表(sucha)</h5>
+      <div class="card-body">
+        <a class="btn btn-light" target="_blank" href="https://wang464.coding.me/index/src/temporary/emmet/emmet.html" title="原网页https://docs.emmet.io/cheat-sheet/">emmet速查</a>
+        <a class="btn btn-light" target="_blank" href="https://wang464.coding.me/index/src/temporary/API_Vue.js/API_Vue.js.html">Vue.jsAPI文档</a>
+        <div class="btn btn-group-sm">
             <a class="btn btn-light" target="_blank" href="http://www.runoob.com/bootstrap4/bootstrap4-tutorial.html">菜鸟BS</a>
+            <a class="btn btn-outline-primary" href="https://hackerthemes.com/bootstrap-cheatsheet/">BS速查</a>
             <a class="btn btn-light" target="_blank" href="https://cloud.tencent.com/developer/doc/1018">腾讯云BS</a>
-            <a class="btn btn-light" target="_blank" href="http://fanyi.youdao.com/" >有道翻译</a>
-            <a class="btn btn-light" target="_blank" href="https://translate.google.cn/" >谷歌翻译</a>
-            <a class="btn btn-light" target="_blank" href="https://www.v2ex.com">V2EX</a>
-            <a class="btn btn-light" target="_blank" href="https://infoq.cn/">infoQ</a>
-            <a class="btn btn-light" target="_blank" href="https://www.toptal.com/designers/htmlarrows/">infoQ</a>           
-          </div>
+        </div>
+        <a class="btn btn-light" target="_blank" href="https://wangdoc.com/javascript/">阮一峰JS教程</a>
+        <a class="btn btn-light" target="_blank" href="https://www.css88.com/nav/">前端文档大全1</a>
+        <a class="btn btn-light" target="_blank" href="http://www.html5star.com/manual/html5/index.html">html标签</a>
+        <a class="btn btn-light" target="_blank" href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element">html标签详解</a>            
+        <a class="btn btn-light" target="_blank" href="https://www.toptal.com/designers/htmlarrows/">html符号</a>           
+        <a class="btn btn-light" target="_blank" href="http://wiki.jikexueyuan.com/project/d3wiki/introduction.html">D3基础教程</a>
+        <a class="btn btn-light" target="_blank" href="https://github.com/d3/d3/wiki/Gallery">D3的例子大全</a>
+        <a class="btn btn-light" target="_blank" href="https://github.com/enochtangg/quick-SQL-cheatsheet/blob/master/README_zh-hans.md">SQL速查表</a>
+      </div>
     </div>    
 </template>

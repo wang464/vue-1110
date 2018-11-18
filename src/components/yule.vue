@@ -1,9 +1,11 @@
 <template>
     <div class="card text-center">
-        <h5 class="card-header">娱乐区</h5>
+        <h5 class="card-header">娱乐区(yule)</h5>
         <div class="card-body">
-            <a class="btn btn-light" href="#">空标签用于复制</a>
-            <a class="btn btn-light" href="http://www.html5star.com/manual/html5/index.html">html文档/指南</a>
+            <!-- <a class="btn btn-light" href="#">空标签用于复制</a> -->
+            <a class="btn btn-light" href="https://kuaiyinshi.com">看抖音</a>
+            <a class="btn btn-light" href="https://music.163.com/#/djradio?id=1008">轻松一刻</a>
+            
             <a class="btn btn-light" href="https://my.vultr.com/billing/#" title="在11-28号处理">服务器地址</a>
             <a class="btn btn-light" target="_blank" href="https://weibo.com/huihuihuiQAQ?profile_ftype=1&is_all=1#_0">看故事</a>
             <a class="btn btn-light" target="_blank" href="https://weibo.com/u/3817167767?profile_ftype=1&is_all=1#_0">微博</a>

@@ -4,7 +4,7 @@
     <div class="row">
       <aside class="col-xl-3">
         <sucha></sucha>
-        <jishu></jishu>
+        <blog></blog>
       </aside>
       <asideCenter></asideCenter>
       <aside class="col-xl-3">        
@@ -18,7 +18,7 @@
 
 <script>
 import asideCenter from "./components/asideCenter";
-import jishu from "./components/jishu";
+import blog from "./components/blog";
 import zaxiang from "./components/zaxiang";
 import yule from "./components/yule";
 import sucha from "./components/sucha";
@@ -28,7 +28,7 @@ export default {
   name: "app",
   components: {
     asideCenter,
-    jishu,
+    blog,
     zaxiang,
     yule,
     sucha

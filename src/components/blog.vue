@@ -1,10 +1,18 @@
 <template>
   <div class="card text-center">
-    <h5 class="card-header">技术工具箱</h5>
+    <h5 class="card-header">博客(blog)</h5>
     <div class="card-body">
-      <a class="btn btn-light" target="_blank" href="http://wiki.jikexueyuan.com/project/d3wiki/introduction.html">D3基础教程</a>
-      <a class="btn btn-light" target="_blank" href="https://github.com/d3/d3/wiki/Gallery">D3的例子大全</a>
-      <a class="btn btn-light" target="_blank" href="https://github.com/enochtangg/quick-SQL-cheatsheet/blob/master/README_zh-hans.md">SQL速查表</a>
+      <!-- <a class="btn btn-light" target="_blank" href=""></a> -->
+      <a class="btn btn-light" target="_blank" href="https://www.v2ex.com">V2EX</a>
+      <a class="btn btn-light" target="_blank" href="https://laod.cn/">老D博客</a>
+      <a class="btn btn-light" target="_blank" href="https://infoq.cn/">infoQ</a>     
+      <a class="btn btn-light" target="_blank" href="http://web.jobbole.com/">伯乐在线</a>
+      <a class="btn btn-light" target="_blank" href="https://codepen.io/#">code笔</a>
+      <a class="btn btn-light" target="_blank" href="https://www.qdfuns.com/">前端funs</a>
+      <a class="btn btn-light" target="_blank" href="https://readhub.cn/topics">互联网</a>
+      <a class="btn btn-light" target="_blank" href="https://www.haorooms.com/nav">导航</a>
+      <a class="btn btn-light" target="_blank" href="https://www.awesomes.cn/">库大全</a>
+      <a class="btn btn-light" target="_blank" href="http://www.yyyweb.com/">前端里</a>
       <a class="btn btn-light" target="_blank" href="https://github.com/stephentian/33-js-concepts">JS的33个核心概念</a>
       <a class="btn btn-light" target="_blank" href="http://scriptoj.mangojuice.top/">面试题库</a>
       <a class="btn btn-light" target="_blank" href="https://www.screentogif.com/?l=zh_cn">开源的制作gif工具</a>
@@ -14,10 +22,6 @@
       <a class="btn btn-light" target="_blank" href="dummyimage.com ">生成图片</a>
       <a class="btn btn-light" target="_blank" href="http://www.shouce.ren/api/view/a/772">前端手册</a>
       <a class="btn btn-light" target="_blank" href="https://zhimap.com/gallery">思维导图</a>
-      <a class="btn btn-light" target="_blank" href="https://www.bilibili.com/video/av10373326">BS新闻站表</a>
-      <a class="btn btn-light" target="_blank" href="https://www.bilibili.com/video/av15445201">Vue留言板</a>
-      <a class="btn btn-light" target="_blank" href="https://www.bilibili.com/video/av22004522">小程序44节课</a>
-      <a class="btn btn-light" target="_blank" href="https://www.bilibili.com/video/av23470615">小程序77节</a>
     </div>
   </div>
 </template>
