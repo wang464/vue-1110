@@ -1,17 +1,17 @@
 <template>
   <div id="app">
     <div class="container">
-    <div class="row">
-      <aside class="col-xl-3">
-        <blog></blog>
-        <sucha></sucha>
-      </aside>
-      <asideCenter></asideCenter>
-      <aside class="col-xl-3">        
-        <yule></yule>
-        <zaxiang></zaxiang>
-      </aside>
-    </div>
+      <div class="row">
+        <aside class="col-xl-3">
+          <blog></blog>
+          <sucha></sucha>
+        </aside>
+        <asideCenter></asideCenter>
+        <aside class="col-xl-3">
+          <yule></yule>
+          <zaxiang></zaxiang>
+        </aside>
+      </div>
     </div>
   </div>
 </template>

@@ -6,7 +6,7 @@
       <a class="btn btn-light" target="_blank" href="https://www.v2ex.com">V2EX</a>
       <a class="btn btn-outline-primary" target="_blank" href="https://www.qdfuns.com/">前端funs</a>
       <a class="btn btn-light" target="_blank" href="https://laod.cn/">老D博客</a>
-      <a class="btn btn-light" target="_blank" href="https://infoq.cn/">infoQ</a>     
+      <a class="btn btn-light" target="_blank" href="https://infoq.cn/">infoQ</a>
       <a class="btn btn-light" target="_blank" href="http://web.jobbole.com/">伯乐在线</a>
       <a class="btn btn-light" target="_blank" href="https://codepen.io/#">code笔</a>
       <a class="btn btn-light" target="_blank" href="https://readhub.cn/topics">互联网</a>
