@@ -7,7 +7,6 @@
             <a class="btn btn-light" target="_blank" href="https://github.com/wang464" >GitHub</a>
             <a class="btn btn-light" target="_blank" href="https://learn.freecodecamp.one/" >代码训练营中国</a>
             <a class="btn btn-light" target="_blank" href="https://dev.tencent.com/u/wang464/p/index">腾讯云</a>
-            <a class="btn btn-light" target="_blank" href="https://www.bilibili.com/video/av10373326">BS新闻站表</a>
             <a class="btn btn-light" target="_blank" href="https://www.bilibili.com/video/av15445201">Vue留言板</a>
             <a class="btn btn-light" target="_blank" href="https://www.bilibili.com/video/av22004522">小程序44节课</a>
             <a class="btn btn-light" target="_blank" href="https://www.bilibili.com/video/av23470615">小程序77节</a>
