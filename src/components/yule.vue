@@ -2,7 +2,6 @@
   <div class="card text-center">
     <h5 class="card-header">娱乐区(yule)</h5>
     <div class="card-body">
-      <!-- <a class="btn btn-light" href="#">空标签用于复制</a> -->
       <a class="btn btn-light" target="_blank" href="https://kuaiyinshi.com">看抖音</a>
       <a class="btn btn-light" target="_blank" href="https://music.163.com/#/djradio?id=1008">轻松一刻</a>
       <a class="btn btn-light" target="_blank" href="https://weibo.com/p/1005055627015582/">小缸和阿灿</a>

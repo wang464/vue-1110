@@ -2,7 +2,6 @@
   <div class="card text-center">
     <h5 class="card-header">博客(blog)</h5>
     <div class="card-body">
-      <!-- <a class="btn btn-light" target="_blank" href=""></a> -->
       <a class="btn btn-light" target="_blank" href="https://www.v2ex.com">V2EX</a>
       <a class="btn btn-outline-primary" target="_blank" href="https://www.qdfuns.com/">前端funs</a>
       <a class="btn btn-light" target="_blank" href="https://laod.cn/">老D博客</a>
