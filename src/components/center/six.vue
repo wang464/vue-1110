@@ -4,7 +4,6 @@
       <div class="card text-center" v-if="week===6">
         <div class="card-body">
           <h5 class="card-title">周六</h5>
-          <p>你好啊</p>
         </div>
       </div>
     </div>
