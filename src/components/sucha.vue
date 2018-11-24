@@ -2,6 +2,8 @@
   <div class="card text-center">
     <h5 class="card-header">速查表(sucha)</h5>
     <div class="card-body">
+      <a class="btn btn-light" target="_blank" href="https://browserdiet.com/zh/">前端性能指南</a>
+      <a class="btn btn-light" target="_blank" href="https://react.docschina.org/">React中文官网</a>
       <a class="btn btn-light" target="_blank" href="https://wang464.coding.me/index/src/temporary/emmet/emmet.html" title="原网页https://docs.emmet.io/cheat-sheet/">emmet速查</a>
       <a class="btn btn-light" target="_blank" href="https://wang464.coding.me/index/src/temporary/API_Vue.js/API_Vue.js.html">Vue.jsAPI文档</a>
       <div class="btn btn-group-sm">
