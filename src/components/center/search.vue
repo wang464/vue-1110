@@ -1,5 +1,5 @@
 <template>
-    <h3 class="text-center">搜索框预留(search)</h3>
+    <h3 v-show="false" class="text-center">搜索框预留(search)</h3>
 </template>
 <script>
 export default {

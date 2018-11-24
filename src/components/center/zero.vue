@@ -7,7 +7,8 @@
           <a class="btn btn-light" target="_blank" href="http://www.zzzfun.com/vod-play-id-18-sid-1-nid-33.html">海贼王</a>
           <a class="btn btn-light" target="_blank" href="https://space.bilibili.com/927587/#/">木鱼说</a>
           <a class="btn btn-light" target="_blank" href="https://laod.cn/">老D博客</a>
-
+          <a class="btn btn-light" target="_blank" href="https://learn.freecodecamp.one/">代码训练营中国</a>
+          <a class="btn btn-light" target="_blank" href="http://web.jobbole.com/">伯乐在线</a>
         </div>
       </div>
     </div>
