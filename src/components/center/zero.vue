@@ -9,6 +9,7 @@
           <a class="btn btn-light" target="_blank" href="https://laod.cn/">老D博客</a>
           <a class="btn btn-light" target="_blank" href="https://learn.freecodecamp.one/">代码训练营中国</a>
           <a class="btn btn-light" target="_blank" href="http://web.jobbole.com/">伯乐在线</a>
+          <a class="btn btn-light" target="_blank" href="http://www.zzzfun.com/vod-play-id-1194-sid-1-nid-8.html">哥布林杀手</a>
           <a class="btn btn-light" target="_blank" href="https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0&ie=utf8&_sug_=n&_sug_type_=">印象笔记一周收藏排行</a>
         </div>
       </div>
