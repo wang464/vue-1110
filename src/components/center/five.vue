@@ -5,7 +5,6 @@
         <div class="card-body">
           <h5 class="card-title">周五</h5>
           <a class="btn btn-light" target="_blank" href="http://www.ruanyifeng.com/blog/">阮一峰日志</a>
-          <a class="btn btn-light" target="_blank" href="https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0&ie=utf8&_sug_=n&_sug_type_=">印象笔记一周收藏排行</a>
         </div>
       </div>
     </div>
