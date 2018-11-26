@@ -4,6 +4,7 @@
     <div class="card-body">
       <a class="btn btn-light" target="_blank" href="https://www.v2ex.com">V2EX</a>
       <a class="btn btn-outline-primary" target="_blank" href="https://www.qdfuns.com/">前端funs</a>
+      <a class="btn btn-light" target="_blank" href="https://github.com/riskers/blog/issues">技术博客</a>
       <a class="btn btn-light" target="_blank" href="https://segmentfault.com/hottest/monthly">思否</a>
       <a class="btn btn-light" target="_blank" href="https://infoq.cn/topic/33">infoQ</a>
       <a class="btn btn-light" target="_blank" href="https://codepen.io/#">code笔</a>
