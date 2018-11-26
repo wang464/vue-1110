@@ -3,6 +3,8 @@
     <h5 class="card-header">杂项(zaxiang)</h5>
     <div class="carFd-body">
       <a class="btn btn-light" target="_blank" href="http://www.114best.com/tel/">官网号码查询</a>
+      <a class="btn btn-light" target="_blank" href="https://house-map.cn/#/">租房</a>
+      <a class="btn btn-light" target="_blank" href="https://github.com/zhaoqize/puppeteer-api-zh_CN">puppeteer(无界面)浏览器中文文档</a>
       <a class="btn btn-light" target="_blank" href="http://sswz.spb.gov.cn/index.do">快递投诉</a>
       <a class="btn btn-light" target="_blank" href="https://workflowy.com/" title="国外的幕布">幕布2</a>
       <a class="btn btn-light" target="_blank" href="http://www.law-lib.com/law/lawml.asp" title="法律法规的条款和位置信息">法律法规图书馆</a>
