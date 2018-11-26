@@ -5,6 +5,7 @@
       <a class="btn btn-light" target="_blank" href="http://fanyi.youdao.com/">有道翻译</a>
       <a class="btn btn-light" target="_blank" href="https://translate.google.cn/">谷歌翻译</a>
       <a class="btn btn-light" target="_blank" href="https://www.zhihu.com/follow">知乎</a>
+      <a class="btn btn-light" target="_blank" href="http://fex.baidu.com/">百度前端周刊</a>
       <a class="btn btn-light" target="_blank" href="http://soblog.cc/">搜索代码</a>
       <a class="btn btn-light" target="_blank" href="https://github.com/wang464">GitHub</a>
       <a class="btn btn-light" target="_blank" href="https://learn.freecodecamp.one/">代码训练营中国</a>
