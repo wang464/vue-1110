@@ -6,6 +6,7 @@
       <a class="btn btn-light" target="_blank" href="https://house-map.cn/#/">租房</a>
       <a class="btn btn-light" target="_blank" href="https://github.com/zhaoqize/puppeteer-api-zh_CN">puppeteer(无界面)浏览器中文文档</a>
       <a class="btn btn-light" target="_blank" href="http://sswz.spb.gov.cn/index.do">快递投诉</a>
+      <a class="btn btn-light" target="_blank" href="https://mubu.com/">幕布</a>
       <a class="btn btn-light" target="_blank" href="https://workflowy.com/" title="国外的幕布">幕布2</a>
       <a class="btn btn-light" target="_blank" href="http://www.law-lib.com/law/lawml.asp" title="法律法规的条款和位置信息">法律法规图书馆</a>
       <a class="btn btn-light" target="_blank" href="http://so.jutuit.com/yy.html">科学上网</a>
