@@ -3,6 +3,7 @@
     <h5 class="card-header">常用(commonly)</h5>
     <div class="card-body">
       <a class="btn btn-light" target="_blank" href="http://fanyi.youdao.com/">有道翻译</a>
+      <a class="btn btn-light" target="_blank" href="https://crashcourse.club/category/">优质的课程</a>
       <a class="btn btn-light" target="_blank" href="https://translate.google.cn/">谷歌翻译</a>
       <a class="btn btn-light" target="_blank" href="https://www.zhihu.com/follow">知乎</a>
       <a class="btn btn-light" target="_blank" href="http://fex.baidu.com/">百度前端周刊</a>

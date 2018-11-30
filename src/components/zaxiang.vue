@@ -21,6 +21,8 @@
       <a class="btn btn-light" target="_blank" href="https://web.archive.org">网站历史档案</a>
       <a class="btn btn-light" target="_blank" href="dummyimage.com ">生成图片</a>
       <a class="btn btn-light" target="_blank" href="https://zhimap.com/gallery">思维导图</a>
+      <a class="btn btn-light" target="_blank" href="https://tool.lu/markdown/">MD转html文件</a>
+      <a class="btn btn-light" target="_blank" href="http://icp.chinaz.com/">域名备案信息</a>
       <a class="btn btn-light" target="_blank" href="http://tool.uixsj.cn/s/guess-number/">猜数字</a>
     </div>
   </div>
