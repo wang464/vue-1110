@@ -20,6 +20,8 @@
       <a class="btn btn-light" target="_blank" href="http://wiki.jikexueyuan.com/project/d3wiki/introduction.html">D3基础教程</a>
       <a class="btn btn-light" target="_blank" href="https://github.com/d3/d3/wiki/Gallery">D3的例子大全</a>
       <a class="btn btn-light" target="_blank" href="https://github.com/enochtangg/quick-SQL-cheatsheet/blob/master/README_zh-hans.md">SQL速查表</a>
+      <a class="btn btn-light" target="_blank" href="https://threejs.org/">three.js用来做3D动画的JS库</a>
+      <a class="btn btn-light" target="_blank" href="https://threejs.org/docs">three.js文档</a>
     </div>
   </div>
 </template>
