@@ -24,6 +24,7 @@
       <a class="btn btn-light" target="_blank" href="https://tool.lu/markdown/">MD转html文件</a>
       <a class="btn btn-light" target="_blank" href="http://icp.chinaz.com/">域名备案信息</a>
       <a class="btn btn-light" target="_blank" href="http://tool.uixsj.cn/s/guess-number/">猜数字</a>
+      <a class="btn btn-light" target="_blank" href="http://www.hotelaah.com/index.html">行政区域划分</a>
     </div>
   </div>
 </template>
