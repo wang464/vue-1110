@@ -10,6 +10,7 @@
       <a class="btn btn-light" target="_blank" href="http://soblog.cc/">搜索代码</a>
       <a class="btn btn-light" target="_blank" href="https://github.com/wang464">GitHub</a>
       <a class="btn btn-light" target="_blank" href="https://www.pinterest.com/">设计网站</a>
+      <a class="btn btn-light" target="_blank" href="https://addgl.72home.com">订单管理系统</a>
       <a class="btn btn-light" target="_blank" href="https://learn.freecodecamp.one/">代码训练营中国</a>
       <a class="btn btn-light" target="_blank" href="https://dev.tencent.com/u/wang464/p/index">腾讯云</a>
       <a class="btn btn-light" target="_blank" href="https://hellogithub.com/">28号技术博客</a>

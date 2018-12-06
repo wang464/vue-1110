@@ -28,6 +28,7 @@
       <a class="btn btn-light" target="_blank" href="https://www.artic.edu/collection">芝加哥博物馆</a>
       <a class="btn btn-light" target="_blank" href="https://www.rijksmuseum.nl/">荷兰博物馆</a>
       <a class="btn btn-light" target="_blank" href="https://www.metmuseum.org/">纽约大都会博物馆</a>
+      <a class="btn btn-light" target="_blank" href="http://neibu.spzp.com/sppeixun/soft.php  ">圆方软件下载</a>
     </div>
   </div>
 </template>
