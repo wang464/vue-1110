@@ -3,14 +3,14 @@
     <search></search>
     <commonly></commonly>
     <!-- 0-6 -->
-    <zero></zero>
-    <one></one>
+    <tools></tools>
     <two></two>
-    <there></there>
     <four></four>
     <five></five>
+    <zero></zero>
+    <one></one>
+    <there></there>
     <six></six>
-    <tools></tools>
   </section>
 </template>
 <script>

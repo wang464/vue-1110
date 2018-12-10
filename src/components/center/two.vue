@@ -1,7 +1,7 @@
 <template>
   <div class="row">
     <div class="col-xl">
-      <div class="card text-center" v-if="week===2">
+      <div class="card text-center">
         <div class="card-body">
           <h5 class="card-title">周二</h5>
           <a class="btn btn-light" target="_blank" href="http://www.zzzfun.com/vod-detail-id-1164.html">东京食尸鬼</a>

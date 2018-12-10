@@ -1,7 +1,7 @@
 <template>
   <div class="row">
     <div class="col-xl">
-      <div class="card text-center" v-if="week===3">
+      <div class="card text-center">
         <div class="card-body">
           <h5 class="card-title">周三</h5>
         </div>

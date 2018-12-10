@@ -1,7 +1,7 @@
 <template>
   <div class="row">
     <div class="col-xl">
-      <div class="card text-center" v-if="week===5">
+      <div class="card text-center">
         <div class="card-body">
           <h5 class="card-title">周五</h5>
           <a class="btn btn-light" target="_blank" href="http://www.ruanyifeng.com/blog/">阮一峰日志</a>
