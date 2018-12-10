@@ -9,6 +9,7 @@
       <a class="btn btn-light" target="_blank" href="https://www.bilibili.com/video/av23470615">小程序77节</a>
       <a class="btn btn-light" target="_blank" href="https://love2.io/@meiritugua/doc/front-end-handbook/README.md">开发者手册1</a>
       <a class="btn btn-light" target="_blank" href="https://love2.io/@funkkiid/doc/front-end-handbook-2017/tools/browsedocs.md">开发者手册2</a>
+      <a class="btn btn-light" target="_blank" href="http://redirectdetective.com/">查询网站重定向</a>
     </div>
   </div>
 </template>
