@@ -10,6 +10,7 @@
       <a class="btn btn-light" target="_blank" href="https://love2.io/@meiritugua/doc/front-end-handbook/README.md">开发者手册1</a>
       <a class="btn btn-light" target="_blank" href="https://love2.io/@funkkiid/doc/front-end-handbook-2017/tools/browsedocs.md">开发者手册2</a>
       <a class="btn btn-light" target="_blank" href="http://redirectdetective.com/">查询网站重定向</a>
+      <a class="btn btn-light" target="_blank" href="https://google.uulucky.com/">谷歌镜像</a>
     </div>
   </div>
 </template>
