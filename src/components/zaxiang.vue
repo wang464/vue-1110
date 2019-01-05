@@ -29,6 +29,8 @@
       <a class="btn btn-light" target="_blank" href="https://www.rijksmuseum.nl/">荷兰博物馆</a>
       <a class="btn btn-light" target="_blank" href="https://www.metmuseum.org/">纽约大都会博物馆</a>
       <a class="btn btn-light" target="_blank" href="http://neibu.spzp.com/sppeixun/soft.php  ">圆方软件下载</a>
+      <a class="btn btn-light" target="_blank" href="https://idesign.qq.com/#!index/feed/id/1">UI设计导航</a>
+      <a class="btn btn-light" target="_blank" href="https://ai.qq.com/product/visionimgidy.shtml#scene">腾讯AI识别</a>
     </div>
   </div>
 </template>

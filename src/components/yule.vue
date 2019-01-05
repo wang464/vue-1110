@@ -16,6 +16,8 @@
       <a class="btn btn-light" target="_blank" href="https://www.kanbilibili.com/">看B站</a>
       <a class="btn btn-light" target="_blank" href="http://www.acatvideo.com/c/">看电影微信1</a>
       <a class="btn btn-light" target="_blank" href="http://www.03pj.tv/">看电影2</a>
+      <a class="btn btn-light" target="_blank" href="https://91mjw.com/">在线看美剧</a>
+      <a class="btn btn-light" target="_blank" href="http://www.qmaile.com/">VIP解析</a>
     </div>
   </div>
 </template>
